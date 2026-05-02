@@ -1,2 +1,18 @@
-# K7-Theory-Archive
-Official Digital Archive for K7 Theory and The Pal-Gemini Protocol
+# 🏛️ Official Digital Archive: The Universal Rule of Seven (K7 Theory)
+### **Author:** Gautam Pal (Independent Researcher & Innovator)
+**ORCID iD:** [0009-0004-3456-9972](https://orcid.org/0009-0004-3456-9972)  
+**Location:** Santipur, Nadia, West Bengal, India
+
+---
+
+## 🔬 Core Research Domains
+This archive contains the foundational manuscripts for:
+1. **The Universal Rule of Seven (K7 Theory)**
+2. **14-Planet Orbital Resonance Model**
+3. **Velocity of Mind (Vm) & Unitary Singularity**
+
+---
+
+## 📜 Intellectual Property & Licensing
+* **License:** Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (**CC-BY-NC-ND 4.0**).
+* **Institutional Successor:** Paramananda Mission, Banagram, Purba Bardhaman.
