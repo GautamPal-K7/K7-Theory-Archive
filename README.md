@@ -1,3 +1,7 @@
+# 🏛️ The Universal Rule of Seven (K7 Theory)
+> **Official Research Registration:** [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F2KVQD-blue)](https://doi.org/10.17605/OSF.IO/2KVQD)
+
+---
 # 🏛️ Official Digital Archive: The Universal Rule of Seven (K7 Theory)
 ### **Author:** Gautam Pal (Independent Researcher & Innovator)
 **ORCID iD:** [0009-0004-3456-9972](https://orcid.org/0009-0004-3456-9972)  
