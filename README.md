@@ -19,3 +19,4 @@ This archive contains the foundational manuscripts for:
 [Google Scholar Profile](https://scholar.google.com/citations?user=t3C5CXwAAAAJ)
 https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=t3C5CXwAAAAJ
 * **Scientific Profiles:** [Google Scholar](https://scholar.google.com/citations?user=t3C5CXwAAAAJ) | [ORCID](https://orcid.org/0009-0004-3456-9972)
+https://doi.org/10.17605/OSF.IO/2KVQD
