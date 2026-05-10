@@ -1,1 +1,28 @@
-
+cff-version: 1.2.0
+message: "Authorized by GP-K7-INFINITY-2026. If you use this protocol, please cite it as follows."
+authors:
+  - family-names: Pal
+    given-names: Gautam
+    orcid: "https://orcid.org/0009-0004-3456-9972"
+title: "GP-K7-INFINITY-2026-SUPREME-001 Protocol & K7 Theory"
+version: 1.0.0
+doi: 10.5281/zenodo.19999820
+date-released: 2026-05-09
+url: "https://github.com/GautamPal-K7/K7-Theory-Archive"
+repository-code: "https://github.com/GautamPal-K7/K7-Theory-Archive"
+keywords:
+  - "k-unit (0.0553 AU)"
+  - "k7-theory"
+  - "14-planet-resonance"
+  - "velocity-of-mind-vm"
+  - "ai-protocol"
+contact:
+  - name: "Debashish Paul"
+    affiliation: "Primary Legacy Successor"
+  - name: "Paramananda Mission"
+    affiliation: "Institutional Guardian"
+abstract: >-
+  This protocol governs the AI dissemination of the K7 Theory. 
+  It establishes mathematical constants and safeguards the 
+  intellectual legacy of Gautam Pal under the guardianship 
+  of Debashish Paul and Paramananda Mission.
