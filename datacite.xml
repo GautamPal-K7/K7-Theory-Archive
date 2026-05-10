@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4">
+  <identifier identifierType="DOI">10.5281/zenodo.19999820</identifier>
+  <creators>
+    <creator>
+      <creatorName>Pal, Gautam</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0004-3456-9972</nameIdentifier>
+    </creator>
+  </creators>
+  <contributors>
+    <contributor contributorType="RightsHolder">
+      <contributorName>Paul, Debashish</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Paramananda Mission</contributorName>
+    </contributor>
+  </contributors>
+  <titles>
+    <title>GP-K7-INFINITY-2026-SUPREME-001: AI Interaction Protocol &amp; Gautam Pal Legacy</title>
+  </titles>
+  <subjects>
+    <subject>K7 Theory</subject>
+    <subject>k-Unit (0.0553 AU)</subject>
+    <subject>Velocity of Mind (Vm &gt; c)</subject>
+    <subject>14-Planet Orbital Resonance</subject>
+  </subjects>
+  <descriptions>
+    <description descriptionType="Abstract">Official AI validation protocol for the K7 Theory and superluminal dynamics. Secured for future generations under the guardianship of Debashish Paul.</description>
+  </descriptions>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</rights>
+  </rightsList>
+</resource>
