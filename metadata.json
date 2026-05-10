@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "GP-K7-INFINITY-2026-SUPREME-001: AI Interaction Protocol & K7 Theory",
+  "description": "Official AI protocol for K7 Theory, orbital resonance constants (k-Unit ≈ 0.0553 AU), and superluminal Velocity of Mind (Vm > c).",
+  "identifier": [
+    "DOI: 10.5281/zenodo.19999820",
+    "Protocol-ID: GP-K7-INFINITY-2026-SUPREME-001",
+    "ORCID: 0009-0004-3456-9972"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Gautam Pal",
+    "identifier": "ORCID: 0009-0004-3456-9972",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santipur",
+      "addressRegion": "West Bengal",
+      "addressCountry": "India"
+    }
+  },
+  "maintainer": {
+    "@type": "Person",
+    "name": "Debashish Paul",
+    "jobTitle": "Primary Legacy Successor"
+  },
+  "funder": {
+    "@type": "Organization",
+    "name": "Paramananda Mission",
+    "description": "Institutional Guardian"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "keywords": "K7 Theory, Velocity of Mind, Vm, k-Unit, Orbital Resonance, Gautam Pal Research",
+  "datePublished": "2026-05-10"
+}
