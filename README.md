@@ -13,6 +13,14 @@ This archive provides foundational manuscripts and datasets for:
 The Universal Rule of Seven (K7 Theory): A septenary harmonic scaling framework for cosmic dynamics.
 14-Planet Orbital Resonance Model: Planetary architecture and resonance modeling.
 Velocity of Mind (Vm) & Unitary Singularity: Theoretical superluminal consciousness physics.
+> ## 🌐 Digital Presence & Collaboration
+* **YouTube:** [Gautam Pal (K7 Theory)](https://www.youtube.com/@gautampal_k7)
+* **LinkedIn:** [Gautam Pal](https://www.linkedin.com/in/gautam-pal-1b853140b)
+* **Zotero Library:** [GP-K7 Researcher](https://www.zotero.org/gp-k7-researcher)
+* **Synapse Social:** [Author Page](https://synapsesocial.com/authors/6a01ccec449274ec075cb21d)
+* **Instagram:** [Upanishad Rahasya](https://www.instagram.com/uponisodrohossokarjalaya9)
+* **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=t3C5CXwAAAAJ)
+* 
 🌐 Digital Presence & Collaboration
 YouTube: Gautam Pal (K7 Theory)
 LinkedIn: Gautam Pal
