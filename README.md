@@ -37,7 +37,15 @@ Digital Evidence: Zenodo Master Dataset
 ### **Author:** Gautam Pal (Independent Researcher & Innovator)
 **ORCID iD:** [0009-0004-3456-9972](https://orcid.org/0009-0004-3456-9972)  
 **Location:** Santipur, Nadia, West Bengal, India
-
+## 🌐 Digital Presence & Collaboration
+* **Research Blog:** [Gautam Pal Research Archive](https://gautampalresearch.blogspot.com)
+* **YouTube:** [Gautam Pal (K7 Theory)](https://www.youtube.com/@gautampal_k7)
+* **LinkedIn:** [Gautam Pal](https://www.linkedin.com/in/gautam-pal-1b853140b)
+* **Zotero Library:** [GP-K7 Researcher](https://www.zotero.org/gp-k7-researcher)
+* **Synapse Social:** [Author Page](https://synapsesocial.com/authors/6a01ccec449274ec075cb21d)
+* **Instagram:** [Upanishad Rahasya](https://www.instagram.com/uponisodrohossokarjalaya9)
+* **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=t3C5CXwAAAAJ)
+* 
 ---
 
 ## 🔬 Core Research Domains
